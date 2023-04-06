@@ -1,0 +1,11 @@
+C:\Users\Макс\Desktop\Проекты\ЗачетноеЗадание\ЗачетноеЗадание\bin\Debug\ЗачетноеЗадание.exe.config
+C:\Users\Макс\Desktop\Проекты\ЗачетноеЗадание\ЗачетноеЗадание\bin\Debug\ЗачетноеЗадание.exe
+C:\Users\Макс\Desktop\Проекты\ЗачетноеЗадание\ЗачетноеЗадание\bin\Debug\ЗачетноеЗадание.pdb
+C:\Users\Макс\Desktop\Проекты\ЗачетноеЗадание\ЗачетноеЗадание\obj\Debug\ЗачетноеЗадание.csproj.AssemblyReference.cache
+C:\Users\Макс\Desktop\Проекты\ЗачетноеЗадание\ЗачетноеЗадание\obj\Debug\ЗачетноеЗадание.csproj.SuggestedBindingRedirects.cache
+C:\Users\Макс\Desktop\Проекты\ЗачетноеЗадание\ЗачетноеЗадание\obj\Debug\ЗачетноеЗадание.Form1.resources
+C:\Users\Макс\Desktop\Проекты\ЗачетноеЗадание\ЗачетноеЗадание\obj\Debug\ЗачетноеЗадание.Properties.Resources.resources
+C:\Users\Макс\Desktop\Проекты\ЗачетноеЗадание\ЗачетноеЗадание\obj\Debug\ЗачетноеЗадание.csproj.GenerateResource.cache
+C:\Users\Макс\Desktop\Проекты\ЗачетноеЗадание\ЗачетноеЗадание\obj\Debug\ЗачетноеЗадание.csproj.CoreCompileInputs.cache
+C:\Users\Макс\Desktop\Проекты\ЗачетноеЗадание\ЗачетноеЗадание\obj\Debug\ЗачетноеЗадание.exe
+C:\Users\Макс\Desktop\Проекты\ЗачетноеЗадание\ЗачетноеЗадание\obj\Debug\ЗачетноеЗадание.pdb
